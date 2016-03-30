@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/anycrypt.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <title>AnyCrypt</title>
+    <center><h1>AnyCrypt</h1></center>
+  </head>
+  <body>
+    <div class="row">
+      <div class="col-md-4 col-md-offset-4">
+	<div id="loading-bar" style="align:center;">
+	  <div class="loading-wrapper html5-progress-bar">
+	    <center><img id="loader"></img></center>
+	  </div>
+	</div>
+	<div id="settings" style="display: none;">
+	  <h3>Username:</h3>
+	  <input type="text" id="username" class="form-control"><br><br>
+	  <h3>List Your Friends:</h3>
+	  <p>
+	    <small>Must be in comma seperated form -> </small>
+	    <small>Example: Lettergram (me), Friend #2, etc.</small><br>
+	  </p>
+	  <textarea id="friends" rows="4" cols="50" class="form-control"></textarea><br>
+	  <h3>Private Key Here:</h3>
+	  <textarea id="copied_private_key" rows="5" cols="50" class="form-control"></textarea><br>
+	  <h5>User Passphrase:</h5>
+	  <input id="passphrase" type="password" class="form-control"><br>
+	  <center>
+	    <button type="button" class="btn btn-success" id="submit">Submit</button>
+	  </center>
+	</div>
+      </div>
+    </div>
+  </body>
+</html>

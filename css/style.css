@@ -1,0 +1,14 @@
+@import "news.css";
+@import "normalize.css";
+
+body {
+	background-color: #f9f9f9;
+}
+.loading-wrapper {
+	width: 250px;
+	margin: 30px auto 0;
+}
+.html5-progress-bar {
+	padding: 15px 15px;
+	border-radius: 3px;
+}
