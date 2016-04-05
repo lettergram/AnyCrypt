@@ -1,4 +1,4 @@
-AnyCrypt
+![AnyCrypt](images/logo-with-text.png)
 ========
 
 A Chrome extension enabling encryption over any web platform, with the help of [keybase.io](https://keybase.io/).
