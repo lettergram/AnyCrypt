@@ -41,7 +41,7 @@ requestDecrypt = function(encrypted_message, element) {
 
 	    if(!response.error){
 		// Add image for decrypted messages
-		img_loc = chrome.extension.getURL('images/icon32corner_low.png');
+		img_loc = chrome.extension.getURL('images/owl-headcorner_low32.png');
 		img_html = '<img id="keylimepie" src="'+img_loc+'">';
 		new_html = img_html + element.innerHTML;
 		element.innerHTML = new_html;
