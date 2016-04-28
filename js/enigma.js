@@ -166,7 +166,7 @@ decrypt = function(encrypted, sendResponse) {
     
     var decrypted_string = "";
     var data = {"decrypted_message": "ENCRYPTED MESSAGE: Not for you," };    
-    data["decrypted_message"] += "\n or you need add sender to your AnyCrypt friends";
+    data["decrypted_message"] += "\n or you need to add the sender to your AnyCrypt friends";
 
     data["encrypted_message"] = encrypted_string; // encrypted string added for reference
 
