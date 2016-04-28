@@ -14,6 +14,6 @@ A Chrome extension enabling encryption over any web platform, with the help of [
 
 ## Contribution(s)
 
-* Primary Developer: Austin Walters
-* Graphics: Vincent Chang
+* Primary Developer: [Austin Walters](http://austingwalters.com)
+* Graphics: [Vincent Chang](http://www.vincentchang.ninja/)
 
