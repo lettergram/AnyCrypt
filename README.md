@@ -10,5 +10,5 @@ A Chrome extension enabling encryption over any web platform, with the help of [
 * Be willing Copy & paste private key into application
 * Have friends host public keys on keybase
 
-#### [How to install](http://lettergram.github.io/keylimepie_issues/)
+#### [How it works](http://lettergram.github.io/AnyCrypt/)
 
