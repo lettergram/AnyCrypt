@@ -12,3 +12,8 @@ A Chrome extension enabling encryption over any web platform, with the help of [
 
 #### [How it works](http://lettergram.github.io/AnyCrypt/)
 
+## Contribution(s)
+
+* Primary Developer: Austin Walters
+* Graphics: Vincent Chang
+
