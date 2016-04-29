@@ -1,7 +1,11 @@
 ![AnyCrypt](images/logo-with-text.png)
 ========
 
-A Chrome extension enabling encryption over any web platform, with the help of [keybase.io](https://keybase.io/).
+A prototype Chrome extension enabling encryption over any web platform, with the help of [keybase.io](https://keybase.io/).
+
+The idea, is to show how easy encryption can and should be. This is a prototype, are several vulnrabilities. However, we felt it prudent to try to guage interest prior to commiting many hours to fixing various issues. Keep this in mind, when using our extension. 
+
+Please, feel free to commit fixes!
 
 ### REQUIREMENTS
 
